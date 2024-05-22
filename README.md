@@ -10,3 +10,5 @@ Learning RP2040 programming using C/C++ and Assembly</br>
 #### References
 - https://www.raspberrypi.com/documentation/microcontrollers/c_sdk.html#sdk-setup
 - RP2040 Assembly Language Programming ARM Cortex-M0+ on the Raspberry Pi Pico (Stephen Smith) 
+- https://www.raspberrypi.com/documentation/microcontrollers/c_sdk.html
+  
